@@ -1,8 +1,15 @@
-# Projet Mathématique - ENSIIE 1A
+# Projet Mathématiques - ENSIIE 1A
 
 ## Introduction
 
 Ce dépôt regroupe toutes les ressources utiles, solutions implémentées ainsi que les résultats de nos recherches sur le projet de mathématiques, dans le cadre de notre deuxième semestre à l'ENSIIE.
+
+### Execution step-by-step
+
+First, create a new folder called `figs`in order to store dynamically the new figures :
+```sh
+rm -rf figs; mkdir figs
+```
 
 
 ## Enoncé
